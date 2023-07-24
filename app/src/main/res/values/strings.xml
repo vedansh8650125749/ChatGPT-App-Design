@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat GPT</string>
+    <string name="chat_gpt">Chat GPT</string>
+    <string name="Sign_in_with">Sign in with</string>
+    <string name="navigation_open">Open Navigation</string>
+    <string name="navigation_close">Close Navigation</string>
+</resources>
